@@ -1,3 +1,4 @@
 var recipes = {};
 
-function updateObjectWithKeyAndValue(recipes, ) {
+function updateObjectWithKeyAndValue(object, key, value) {
+  return object[key]
